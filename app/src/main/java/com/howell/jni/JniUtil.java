@@ -3,6 +3,9 @@ package com.howell.jni;
 import com.howell.ecamerapp.Pagination;
 import com.howell.ecamerapp.ReplayFile;
 
+
+
+@SuppressWarnings("JniMissingFunction")
 public class JniUtil {
 	
 	static{
